@@ -1,0 +1,10 @@
+write-home-timeline-service-85b597bbdc-8bmsz
+home-timeline-redis-5fccc64ffd-fgdsl
+social-graph-service-6bc676858d-pbq9m
+social-graph-redis-776f7659cc-ntdls
+social-graph-mongodb-6bf88fbc75-ptpqs
+user-timeline-service-84c588d974-xvg2x
+user-timeline-redis-6dbd6d5d58-pk79c
+user-timeline-mongodb-64444b98c4-7mjv8
+post-storage-service-d744cb5df-jpj7j
+post-storage-mongodb-68779c58bc-hc8jj

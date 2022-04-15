@@ -1,0 +1,3 @@
+movie-review-service-6bd6789b7-zrxsz
+movie-review-redis-676c8cccbc-zzwg9
+movie-review-mongodb-74848f9fdf-tlppf
